@@ -2,6 +2,8 @@
 /.import
 export.cfg
 /builds
+[Aa]ndroid/
+*.import
 
 /inspect_results.xml
 /files_to_check.txt
@@ -28,7 +30,7 @@ export.cfg
 /Videos
 
 .svn
-.vs
+.vs/
 .vscode
 
 # Merge tool left over files
